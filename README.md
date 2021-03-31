@@ -1,8 +1,23 @@
 ![](/Banner.png)
 
-- 👋 Hi, I’m @Paracetamol56
-- 👀 I’m interested in computer science (obviously), astronomy, science and lots of other stuff...
-- 🌱 I’m currently learning IT in France
+### SKILLS
+- 💻 Linux/Windows
+- 📄 Microsoft Office suite
+- 🖌 Adobe suite
+- 🖥 C++ programming
+- 🧱 3D modeling
+
+
+### INTERESTS
+- 🔭 Astronomy
+- 🎞 Electronics
+- 🪂 Paragliding
+- 🧪 Science
+
+### LANGUAGES
+- 🇫🇷 French – Native speaker
+- 🇺🇸 English – Intermediate level (PET, B1)
+- 🇬🇪 German – Basic level
 
 <!---
 Paracetamol56/Paracetamol56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
