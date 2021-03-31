@@ -23,7 +23,7 @@
 
 ### Languages
 - 🇫🇷 French – Native speaker
-- 🇺🇸 English – Intermediate level (PET, B1)
+- 🇺🇸 English – Intermediate level (C1)
 - 🇬🇪 German – Basic level
 
 <br />
