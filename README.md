@@ -1,32 +1,54 @@
 ![](/Banner.png)
 
-### Languages and Tools:
+## Skills
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+### OS
+
+<img align="left" alt="Windows" height="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img align="left" alt="Linux" height="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Android" height="26px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+### Languages
+
+<img align="left" alt="C++" height="26px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="left" alt="C#" height="26px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="left" alt="Unity" height="26px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img align="left" alt="HTML5" height="26px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="Java" height="26px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Python" height="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="Bash" height="26px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Markdown" height="26px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
+### Tools
+
+<img align="left" alt="Visual Studio Code" height="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img align="left" alt="Visual Studio" height="26px" src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img align="left" alt="Adobe Suite" height="26px" src="https://img.shields.io/badge/Adobe%20suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img align="left" alt="Microsoft Office" height="26px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align="left" alt="Git" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+### Workspace
+
+<img align="left" alt="GTX1660TI" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="Core i5 9600K" height="26px" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paracetamol56)
 
-### Interests
+## Interests
+
 - 🔭 Astronomy
 - 🎞 Electronics
 - 🪂 Paragliding
 - 🧪 Science
 
-### Languages
+## Languages
+
 - 🇫🇷 French – Native speaker
 - 🇺🇸 English – Intermediate level (C1)
 - 🇬🇪 German – Basic level
 
-<br />
 <br />
 
 <!---
