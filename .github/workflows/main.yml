@@ -34,12 +34,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics2.svg
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: Paracetamol56
-          template: classic
           config_timezone: Europe/Paris
           plugin_gists: yes
           plugin_activity: yes
