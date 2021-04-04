@@ -40,6 +40,7 @@ jobs:
           # Options
           user: Paracetamol56
           template: classic
+          base: ""
           config_timezone: Europe/Paris
           plugin_gists: yes
           plugin_activity: yes
