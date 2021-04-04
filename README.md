@@ -1,6 +1,8 @@
 ![](/Banner.png)
 
-![Metrics](https://github.com/Paracetamol56/Paracetamol56/blob/main/github-metrics.svg)
+<img align="left" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics.svg"/>
+<img alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics2.svg"/>
+
 
 ## Skills
 
