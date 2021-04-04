@@ -1,5 +1,7 @@
 ![](/Banner.png)
 
+![Metrics](https://github.com/Paracetamol56/Paracetamol56/blob/main/github-metrics.svg)
+
 ## Skills
 
 ### OS
