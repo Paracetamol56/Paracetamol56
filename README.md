@@ -3,6 +3,7 @@
 <img align="left" width="48%" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics.svg"/>
 <img width="48%" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics2.svg"/>
 
+---
 
 ## Skills
 
