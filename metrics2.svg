@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="851" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="402" class="">
     <defs>
         <style/>
     </defs>
@@ -1063,28 +1063,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            Paracetamol56/Cpp-Network-App
+                                        Closed
+                                        <span class="issue">
+                                            #1 Passer en communication non bloquante
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c976fde
-                                        </span>
-                                        <span class="message">
-                                            Started the settings validation system
+                                        opened  in
+                                        <span class="repo">
+                                            Paracetamol56/Cpp-Network-App
                                         </span>
                                     </div>
                                 </div>
@@ -1112,10 +1104,33 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #dc3d6eb
+                                            #82cee0f
                                         </span>
                                         <span class="message">
-                                            clean the fresh code
+                                            Add sfml testing solution
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 0 commits in
+                                        <span class="repo">
+                                            Paracetamol56/Cpp-Network-App
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            main
                                         </span>
                                     </div>
                                 </div>
@@ -1143,10 +1158,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #37fee49
+                                            #98d0159
                                         </span>
                                         <span class="message">
-                                            clear the text input after sending
+                                            rebase main branch
                                         </span>
                                     </div>
                                 </div>
@@ -1159,7 +1174,7 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">
                                             Paracetamol56/Cpp-Network-App
                                         </span>
@@ -1174,219 +1189,10 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #1a8c2e9
+                                            #c915ac8
                                         </span>
                                         <span class="message">
-                                            Add a warning error dialog box
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #93ab160
-                                        </span>
-                                        <span class="message">
-                                            Update warning dialog
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #3891d31
-                                        </span>
-                                        <span class="message">
-                                            Implement send button
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #b3bf111
-                                        </span>
-                                        <span class="message">
-                                            Implement 'add a file button'
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 40 commits in
-                                        <span class="repo">
-                                            Paracetamol56/Cpp-Network-App
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            main
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #05e28c5
-                                        </span>
-                                        <span class="message">
-                                            Added client and server solution
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #d01b087
-                                        </span>
-                                        <span class="message">
-                                            Update .gitignore
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #6e5c0ae
-                                        </span>
-                                        <span class="message">
-                                            Create LICENSE
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #22f0bc6
-                                        </span>
-                                        <span class="message">
-                                            Merge pull request #4 from Paracetamol56/add-license-1
-
-Create LICENSE
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #57a4bdf
-                                        </span>
-                                        <span class="message">
-                                            Update issue templates
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #b784cf8
-                                        </span>
-                                        <span class="message">
-                                            Update .gitignore
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #a7f549e
-                                        </span>
-                                        <span class="message">
-                                            Clean the repo
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #d506659
-                                        </span>
-                                        <span class="message">
-                                            Add wxWidget application
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #8a730fd
-                                        </span>
-                                        <span class="message">
-                                            Add menu bar
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #b7531fe
-                                        </span>
-                                        <span class="message">
-                                            Add event table
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #6a42ba2
-                                        </span>
-                                        <span class="message">
-                                            Update UIs
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #f9d5686
-                                        </span>
-                                        <span class="message">
-                                            Update UIs
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #bf78063
-                                        </span>
-                                        <span class="message">
-                                            Add setting panel (WIP)
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #c81f327
-                                        </span>
-                                        <span class="message">
-                                            Update settings panel
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #141a650
-                                        </span>
-                                        <span class="message">
-                                            Add buttons to the settings panel
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #aa465e9
-                                        </span>
-                                        <span class="message">
-                                            Add content class
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #22988e7
-                                        </span>
-                                        <span class="message">
-                                            Update content class attributs
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #be2fbdc
-                                        </span>
-                                        <span class="message">
-                                            Include CContent to the main class
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #5504fc7
-                                        </span>
-                                        <span class="message">
-                                            Update content class
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #f56d20e
-                                        </span>
-                                        <span class="message">
-                                            Added elements to the content class
+                                            delete temporary files
                                         </span>
                                     </div>
                                 </div>
