@@ -28,7 +28,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: dockerfile, makefile, objective-c, shaderlab, hlsl
-          plugin_languages_skipped: E428, That-level-again-unity
+          plugin_languages_skipped: Application-Graph-theory, Huffman-code, That-level-again-unity
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
