@@ -45,13 +45,14 @@
 - 🔭 Astronomy
 - 🎞 Electronics
 - 🪂 Paragliding
+- 🤿 Scuba diving
 - 🧪 Science
 
 ## Languages
 
 - 🇫🇷 French – Native speaker
 - 🇺🇸 English – Intermediate level (C1)
-- 🇬🇪 German – Basic level
+- 🇩🇪 German – Basic level
 
 <br />
 
