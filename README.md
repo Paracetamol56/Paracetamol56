@@ -35,11 +35,6 @@
 <img align="left" alt="Git" height="26px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-### Workspace
-
-<img align="left" alt="GTX1660TI" height="26px" src="https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img alt="Core i5 9600K" height="26px" src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-
 ## Interests
 
 - 🔭 Astronomy
