@@ -121,7 +121,7 @@ Database :
 
 <p>
   <a href="https://www.paypal.com/paypalme/gamatheo" target="_blank">
-    <img alt="GitHub" height="26px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+    <img alt="Paypal" height="26px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
 
