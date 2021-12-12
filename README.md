@@ -124,6 +124,9 @@ Database :
   <a href="https://www.paypal.com/paypalme/gamatheo" target="_blank">
     <img alt="Paypal" height="26px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
+  <a href="https://www.patreon.com/paracetamol56">
+    <img alt="Paypal" height="26px" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
+  </a>
 </p>
 
 <!---
