@@ -121,6 +121,9 @@ Database :
 ## Donation
 
 <p>
+  <a href="https://github.com/sponsors/Paracetamol56/dashboard" target="_blank">
+    <img alt="Paypal" height="26px" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
+  </a>
   <a href="https://www.paypal.com/paypalme/gamatheo" target="_blank">
     <img alt="Paypal" height="26px" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
@@ -128,8 +131,3 @@ Database :
     <img alt="Paypal" height="26px" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/>
   </a>
 </p>
-
-<!---
-Paracetamol56/Paracetamol56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
