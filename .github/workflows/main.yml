@@ -21,7 +21,7 @@ jobs:
           user: Paracetamol56
           template: classic
           base: header, metadata
-          config_timezone: Europe/Paris
+          config_timezone: America/Montreal
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_colors: github
@@ -43,7 +43,7 @@ jobs:
           user: Paracetamol56
           template: classic
           base: ""
-          config_timezone: Europe/Paris
+          config_timezone: America/Montreal
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
