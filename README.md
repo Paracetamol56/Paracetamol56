@@ -96,6 +96,7 @@ Web :
   <img alt="Typescript" height="26px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="ExpressJS" height="26px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="React" height="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe"/>
+  <img alt="VueJS" height="26px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 </p>
 
 Database :
