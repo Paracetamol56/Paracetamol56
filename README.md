@@ -35,7 +35,7 @@ Hi, I’m Mathéo, I’m studying computer science in France and I love that. I�
   <a href="https://github.com/Paracetamol56" target="_blank">
     <img alt="Github" height="26px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://paracetamol56.github.io/Portfolio-2021" target="_blank">
+  <a href="https://matheo-galuba.com/contact" target="_blank">
     <img alt="Website" height="26px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
