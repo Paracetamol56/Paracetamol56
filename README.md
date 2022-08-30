@@ -1,13 +1,11 @@
 ![](/Banner.png)
 
-<img align="left" width="48%" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics.svg"/>
-<img width="48%" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics2.svg"/>
-
-<br>
-<br>
-<br>
+|<img align="left" alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics.svg"/>|<img alt="metrics" src="https://github.com/Paracetamol56/Paracetamol56/blob/main/metrics2.svg"/>|
+|:---:|:---:|
 
 Hi, I’m Mathéo, I’m studying computer science in France and I love that. I’m also a maker and an open-source enthusiast. 
+
+<img alt="Views counter" height="26px" src="https://komarev.com/ghpvc/?username=Paracetamol56&style=flat-square"/>
 
 ## Interests
 
