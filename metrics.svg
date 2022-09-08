@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.36808881732003" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="392.36808881732003" y="0" width="18.577988821824054" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.94607763914405" y="0" width="16.30778327344579" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.25386091258986" y="0" width="14.095656660051949" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="441.3495175726418" y="0" width="7.836033442254937" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.18555101489676" y="0" width="4.679514768824881" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.8650657837216" y="0" width="3.792319112923111" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.6573848966447" y="0" width="2.342615103355234" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.45715167140025" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="392.45715167140025" y="0" width="18.582205802650734" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="411.03935747405103" y="0" width="16.31148494481879" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.35084241886983" y="0" width="14.098856205193512" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="441.44969862406333" y="0" width="7.733397640512572" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.18309626457585" y="0" width="4.680576962598789" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.8636732271747" y="0" width="3.7931799239151522" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.6568531510898" y="0" width="2.343146848910142" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>9.34 MB</div>
-                                <div>85.3%</div>
+                                <div>85.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,8 +114,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>186 kB</div>
-                                <div>1.7%</div>
+                                <div>183 kB</div>
+                                <div>1.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1231,7 +1231,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2022, 03:22:43 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 14:30:13 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
