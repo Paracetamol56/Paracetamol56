@@ -38,7 +38,7 @@ Hi, I’m Mathéo, I’m studying computer science in France and I love that. I�
   </a>
 </p>
 
-## Achivments
+## Achivements
 
 - [x] Born
 - [ ] Got a job
