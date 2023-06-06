@@ -128,7 +128,7 @@
 ## Donation
 
 <p style="text-align:center">
-  <a href="https://github.com/sponsors/Paracetamol56/dashboard" target="_blank">
+  <a href="https://github.com/sponsors/Paracetamol56" target="_blank">
     <img alt="Paypal" height="26px" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
   <a href="https://www.paypal.com/paypalme/gamatheo" target="_blank">
